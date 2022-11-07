@@ -1,0 +1,10 @@
+mylist = [1, 7, 3, 12, 5]
+min_value = min(mylist)
+print(min_value)
+
+
+
+#min
+mylist = [1, 7, 3, 12, 5]
+max_value=max(mylist)
+print(max_value)
